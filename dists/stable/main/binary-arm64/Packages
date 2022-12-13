@@ -1,0 +1,15 @@
+Package: termux-miner
+Architecture: arm64
+Version: 2.7.6
+Maintainer: Wong Fi hung <wong-fi-hung@github.com>
+Installed-Size: 7.6 MB
+Depends: git, wget, nano, xz-utils, zstd, sudo
+Filename: pool/main/termux-miner_v2.7.6_linux-static_arm64.deb
+Size: 2430656
+MD5sum: eb351ff14035a32c43b38e3225dc9b42
+SHA1: c269c35d8100f54f269bd6c49588019097b765e8
+SHA256: 99365606e4f0296980b73c2cee2f41449d65b2d52616dbd77d6b152a30c3123d
+SHA512: eb77716ba2344b2a6971e302c86c281c2d8ef188d728b7ea9e2c25c17206a53cc62735989a0263de3b8a63137fdc180f6132911bb768a5aea4959c1eb89cfb01
+Homepage: https://github.com/wong-fi-hung/termux-miner
+Description: utility tools for mining on termux ubuntu or arm64 linux
+

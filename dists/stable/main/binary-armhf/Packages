@@ -1,0 +1,17 @@
+Package: termux-miner
+Architecture: armhf
+Version: 3.0.0
+Maintainer: Wong Fi hung <wong-fi-hung@github.com>
+Installed-Size: 7168 B
+Depends: git, wget, nano, xz-utils, zstd, sudo
+Filename: pool/main/termux-miner_v3.0.0_linux-static__armhf.deb
+Size: 2475330
+MD5sum: ea7c868f23e7abafab89d46ed0af604b
+SHA1: e6d8b72062a9f6bb0f02e91f2a8f147a3f13de48
+SHA256: 4a48c96d94c85915e64ddea7e0ed4c374bb69daa363fad9854ff6d3610efa028
+SHA512: 2c25937f1ea307a0fd6f7fdf31d1b12184831e5892596778b1d5722d372fa2a6bc2010d6918901b89d0b195aa2a3a54671b8f47bd7792c07e40ce9c5148efe28
+Homepage: https://github.com/wong-fi-hung/termux-miner
+Description: utility tools for mining on termux ubuntu or arm linux
+Download-Size: 2431 kB
+APT-Sources: /home/udin/miner-repo/pool/main/termux-miner_v2.7.6_linux-static_arm64.deb
+
